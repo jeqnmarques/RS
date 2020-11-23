@@ -385,7 +385,7 @@ const stories_2 = [
     description: '',
     image: 'IMG/BB/34_BB_JEANMARQUES.JPG',
     time: 4000
-  },
+  }
 ]
 
 const container = document.querySelector('.container')
