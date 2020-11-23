@@ -104,12 +104,6 @@ const stories = [
   {
     title: '',
     description: '',
-    image: 'IMG/BB/IMG_6122.MP4',
-    time: 4000
-  },
-  {
-    title: '',
-    description: '',
     image: 'IMG/CN/31_CN_JEANMARQUES.JPG',
     time: 4000
   },
